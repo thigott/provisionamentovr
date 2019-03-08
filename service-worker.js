@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/thigott.github.io/provisionamentovr/precache-manifest.cbcd04bd1a9a6e599f63c537712a964f.js"
+  "/thigott.github.io/provisionamentovr/precache-manifest.810921a481117136462afbbfd4707f2b.js"
 );
 
 workbox.clientsClaim();
